@@ -5,7 +5,7 @@ export default {
   title: 'Components/Toast',
   component: Toast,
   args: {
-    title: 'Agendamento realizado',
+    title: 'Avaliação disparada',
     date: new Date(),
   },
   argTypes: {

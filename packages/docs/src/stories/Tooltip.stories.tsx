@@ -7,7 +7,7 @@ export default {
   args: {
     children: (
       <Text size="sm" weight="semi-bold">
-        26 de Outubro - Disponível
+        26 de Outubro - Avaliação Disponível
       </Text>
     ),
   },

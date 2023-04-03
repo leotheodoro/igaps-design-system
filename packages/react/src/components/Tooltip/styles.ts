@@ -3,7 +3,7 @@ import { styled } from '../../styles'
 import { Box } from '../Box'
 
 export const TooltipBox = styled(Box, {
-  backgroundColor: '$gray900',
+  backgroundColor: '$gray100',
   width: 'fit-content',
   padding: '$3 $4',
   borderRadius: '5px',
@@ -15,7 +15,7 @@ export const TooltipBox = styled(Box, {
 
 export const TooltipDownArrow = styled(ArrowFatDown, {
   width: '100%',
-  color: '$gray900',
+  color: '$gray100',
   position: 'absolute',
   bottom: -8,
 })

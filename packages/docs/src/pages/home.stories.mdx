@@ -2,6 +2,52 @@ import { Meta } from '@storybook/addon-docs'
 
 <Meta title='Home' />
 
-# Ignite UI
+# Introducing iGAPS Design System Storybook
 
-Design System do Ignite.
+iGAPS Design System Storybook is a powerful and intuitive tool for creating, documenting and testing UI components. It provides a central place where designers and developers can view, interact with, and document their design system components.
+
+With iGAPS Design System Storybook, you can easily organize your design system, create and test components, and share them with your team. It's a must-have tool for anyone working on a design system, whether you're a designer, developer, or product owner.
+
+# Getting Started
+
+Getting started with iGAPS Design System Storybook is easy. Follow these simple steps:
+
+## 1. Install iGAPS Design System Storybook
+
+To get started, you'll need to install iGAPS Design System Storybook. You can do this by running the following command:
+
+```bash
+npm install @igaps/storybook
+```
+
+## 2. Create a Storybook
+
+Once you have installed iGAPS Design System Storybook, you can create a new Storybook by running the following command:
+
+```bash
+npx @igaps/storybook init
+```
+
+This will create a new Storybook project in your current directory. You can then add your components to the project and start documenting and testing them.
+
+## 3. Add Components
+
+To add a component to your Storybook, create a new file in the `src/components` directory of your project. You can then import and use this component in your Storybook stories.
+
+```javascript
+import { Button } from '../src/components/Button';
+
+export default {
+  title: 'Button',
+  component: Button,
+};
+
+export const Primary = () => <Button primary>Primary Button</Button>;
+export const Secondary = () => <Button secondary>Secondary Button</Button>;
+```
+
+## 4. Document and Test Components
+
+With iGAPS Design System Storybook, you can easily document and test your components. Each story you create in your Storybook provides a visual representation of your component, along with a description and any props or arguments it takes.
+
+You can also use addons to add additional functionality to your Storybook, such as automated accessibility testing or visual regression testing.

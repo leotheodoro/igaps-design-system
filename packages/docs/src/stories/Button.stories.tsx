@@ -6,7 +6,7 @@ export default {
   title: 'Form/Button',
   component: Button,
   args: {
-    children: 'Send',
+    children: 'Enviar avaliação',
     variant: 'primary',
     size: 'md',
     disabled: false,

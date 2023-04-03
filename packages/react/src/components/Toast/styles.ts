@@ -23,14 +23,14 @@ export const Title = styled(Heading, {
 })
 
 export const CloseIcon = styled(X, {
-  color: '$gray200',
+  color: '$white',
   width: '$5',
   height: '$5',
   cursor: 'pointer',
 })
 
 export const Subtitle = styled(Text, {
-  color: '$gray200',
+  color: '$white',
   marginTop: '$1',
   defaultVariants: {
     size: 'sm',
