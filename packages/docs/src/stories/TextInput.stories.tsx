@@ -1,5 +1,5 @@
 import type { StoryObj, Meta } from '@storybook/react'
-import { Box, Text, TextInput, TextInputProps } from '@ltpds/react'
+import { Box, Text, TextInput, TextInputProps } from '@igapsui/react'
 
 export default {
   title: 'Form/Text Input',

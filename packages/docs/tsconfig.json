@@ -1,4 +1,4 @@
 {
-  "extends": "@ltpds/ts-config/react.json",
+  "extends": "@igapsui/ts-config/react.json",
   "include": ["src"],
 }

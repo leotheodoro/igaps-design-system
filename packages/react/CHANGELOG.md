@@ -1,4 +1,4 @@
-# @ltpds/react
+# @igapsui/react
 
 ## 1.1.0
 

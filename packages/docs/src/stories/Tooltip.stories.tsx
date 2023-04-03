@@ -1,5 +1,5 @@
 import type { StoryObj, Meta } from '@storybook/react'
-import { Tooltip, TooltipProps, Text } from '@ltpds/react'
+import { Tooltip, TooltipProps, Text } from '@igapsui/react'
 
 export default {
   title: 'Components/Tooltip',

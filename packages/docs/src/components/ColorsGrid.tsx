@@ -1,4 +1,4 @@
-import { colors } from '@ltpds/tokens'
+import { colors } from '@igapsui/tokens'
 import { getContrast } from 'polished'
 
 export function ColorsGrid() {

@@ -1,5 +1,5 @@
 import type { StoryObj, Meta } from '@storybook/react'
-import { Toast, ToastProps } from '@ltpds/react'
+import { Toast, ToastProps } from '@igapsui/react'
 
 export default {
   title: 'Components/Toast',

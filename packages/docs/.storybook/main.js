@@ -18,7 +18,7 @@ module.exports = {
   },
   viteFinal: (config, { configType }) => {
     if(configType === 'PRODUCTION') {
-      config.base = '/ignite-call-design-sytem/'
+      config.base = '/igaps-design-system/'
     }
 
     return config

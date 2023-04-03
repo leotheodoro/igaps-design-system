@@ -1,5 +1,5 @@
 import type { StoryObj, Meta } from '@storybook/react'
-import { Box, Text, TextArea, TextAreaProps } from '@ltpds/react'
+import { Box, Text, TextArea, TextAreaProps } from '@igapsui/react'
 
 export default {
   title: 'Form/Text Area',

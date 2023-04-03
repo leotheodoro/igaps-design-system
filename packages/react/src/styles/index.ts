@@ -6,7 +6,7 @@ import {
   lineHeights,
   radii,
   space,
-} from '@ltpds/tokens'
+} from '@igapsui/tokens'
 import { createStitches, defaultThemeMap } from '@stitches/react'
 
 export const {

@@ -1,5 +1,5 @@
 {
-  "name": "@ltpds/react",
+  "name": "@igapsui/react",
   "version": "1.1.0",
   "description": "",
   "main": "./dist/index.js",
@@ -14,9 +14,9 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
-    "@ltpds/eslint-config": "*",
-    "@ltpds/tokens": "*",
-    "@ltpds/ts-config": "*",
+    "@igapsui/eslint-config": "*",
+    "@igapsui/tokens": "*",
+    "@igapsui/ts-config": "*",
     "@types/react": "^18.0.28",
     "@types/react-dom": "^18.0.11",
     "react": "^18.2.0",
